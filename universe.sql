@@ -1,3 +1,5 @@
+-- Any real information on Space used in this code was taken from Wikepedia or National Geographic
+
 --
 -- PostgreSQL database dump
 --
